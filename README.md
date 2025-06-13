@@ -92,8 +92,3 @@ This platform benefits **bank managers**, **data analysts**, and **financial adv
 ![Prediction](screenshots/prediction.png) <!-- Replace with actual screenshot -->
 
 ---
-ion
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/bank-data-analysis.git
-   cd bank-data-analysis
