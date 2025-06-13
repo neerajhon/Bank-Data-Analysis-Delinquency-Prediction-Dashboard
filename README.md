@@ -4,7 +4,7 @@
 
 Unlock powerful customer behavior analytics, risk prediction, and churn insights with this all-in-one Python-based data science platform! 🚀 Built with Streamlit, this interactive dashboard empowers financial institutions to analyze credit card portfolios, predict delinquency and churn, and derive actionable insights for customer retention strategies, personalized marketing, risk-based credit decisions, and financial planning & forecasting. Dive into stunning visualizations and make data-driven decisions with ease! 💸
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)](https://streamlit.io/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/yourusername/bank-data-analysis?style=social)](https://github.com/yourusername/bank-data-analysis/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)](https://streamlit.io/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -92,17 +92,7 @@ This platform benefits **bank managers**, **data analysts**, and **financial adv
 ![Prediction](screenshots/prediction.png) <!-- Replace with actual screenshot -->
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to run the app locally and explore its features! 🖥️
-
-### Prerequisites
-- Python 3.8+ 🐍
-- Conda environment (recommended) 🧪
-- Git installed 📂
-
-### Installation
+ion
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/bank-data-analysis.git
