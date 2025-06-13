@@ -1,6 +1,6 @@
 # 💳 Bank Data Analysis & Delinquency/Churn Prediction Platform 🌟
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Bank+Data+Analysis+Dashboard) <!-- Replace with your banner image -->
+![Project Banner](screenshots/BankBanner.png) <!-- Replace with your banner image -->
 
 Unlock powerful customer behavior analytics, risk prediction, and churn insights with this all-in-one Python-based data science platform! 🚀 Built with Streamlit, this interactive dashboard empowers financial institutions to analyze credit card portfolios, predict delinquency and churn, and derive actionable insights for customer retention strategies, personalized marketing, risk-based credit decisions, and financial planning & forecasting. Dive into stunning visualizations and make data-driven decisions with ease! 💸
 
